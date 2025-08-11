@@ -2,7 +2,7 @@
 
 Temmy Flight Booking System
 A console-based application for booking flights with multiple class options,
-discounts for children and returning customers, and VAT calculation.
+discounts for children, returning customers, and VAT calculation.
 """
 
 # ====================== CONFIGURATION CONSTANTS ======================
