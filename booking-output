@@ -1,0 +1,2 @@
+This image displays the booking of a returned customer. He chose a premium ticket and a 10% discount was added at checkout. 
+He entered 10 digit number as mobile number during the booking which signaled an error due to input validation.
